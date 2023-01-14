@@ -9,6 +9,8 @@ out/
 .factorypath
 .project
 .settings
+.idea
+Workshop1.iml
 .springBeans
 .sts4-cache
 bin/
@@ -27,4 +29,3 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-*.idea/
