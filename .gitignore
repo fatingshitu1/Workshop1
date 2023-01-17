@@ -1,9 +1,76 @@
-### IntelliJ IDEA ###
-out/
-!**/src/main/**/out/
-!**/src/test/**/out/
+LFP_Java Fellowship - 242
+Sunil December 28 2022
+Stream
+Classwork
+People
+LFP_Java Fellowship - 242
+Sunil December 28 2022
+Upcoming
+Due today
+Day 8 Practice Problem
 
-### Eclipse ###
+Announce something to your class
+
+Announcement: '-> parameterized comstructor -> OOPs ->…'
+Manu Saini
+Created YesterdayYesterday (Edited Yesterday)
+-> parameterized comstructor
+-> OOPs
+-> Encapsulation
+
+LFPSample242.zip
+Compressed Archive
+
+.gitignore
+Text
+
+Assignment: "Day 8 Practice Problem"
+Manu Saini posted a new assignment: Day 8 Practice Problem
+Created YesterdayYesterday
+Material: 'Day 8 OOPS Concept Part-1'
+Manu Saini posted a new material: Day 8 OOPS Concept Part-1
+Created YesterdayYesterday
+
+Announcement: '-> Method Types'
+Manu Saini
+Created 9 Jan9 Jan
+-> Method Types
+
+LFPSample242.zip
+Compressed Archive
+
+
+Announcement: '-> Arrays'
+Manu Saini
+Created 7 Jan7 Jan
+-> Arrays
+
+LFPSample242.zip
+Compressed Archive
+
+Assignment: "Day 3 Practice Problem"
+Manu Saini posted a new assignment: Day 3 Practice Problem
+Created 7 Jan7 Jan
+Material: 'Day 3 Array Handling'
+Manu Saini posted a new material: Day 3 Array Handling
+Created 7 Jan7 Jan
+Assignment: "Day 4 Practice Problem"
+Manu Saini posted a new assignment: Day 4 Practice Problem
+Created 7 Jan7 Jan
+Material: 'Day 4 Programming Constructs'
+Manu Saini posted a new material: Day 4 Programming Constructs
+Created 7 Jan7 Jan
+Assignment: "Day 6 Logical Programming Practice Problem"
+Manu Saini posted a new assignment: Day 6 Logical Programming Practice Problem
+Created 7 Jan7 Jan (Edited 7 Jan)
+Stream
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+### STS ###
 .apt_generated
 .classpath
 .factorypath
@@ -11,9 +78,12 @@ out/
 .settings
 .springBeans
 .sts4-cache
-bin/
-!**/src/main/**/bin/
-!**/src/test/**/bin/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
 
 ### NetBeans ###
 /nbproject/private/
@@ -21,10 +91,13 @@ bin/
 /dist/
 /nbdist/
 /.nb-gradle/
+build/
 
 ### VS Code ###
 .vscode/
 
-### Mac OS ###
-.DS_Store
-*.idea/
+
+.gitignore
+Displaying .gitignore.
+.idea
+Workshop1.iml
