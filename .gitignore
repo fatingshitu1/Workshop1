@@ -18,9 +18,9 @@ target/
 *.iws
 *.iml
 *.ipr
-*.idaa
-*.out
-Workshop1.iml
+*.idea/
+*.out/
+Workshop1.iml/
 
 ### NetBeans ###
 /nbproject/private/
