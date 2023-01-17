@@ -18,15 +18,12 @@ target/
 *.iws
 *.iml
 *.ipr
-*.idea/
-*.out/
-Workshop1.iml/
 
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
 /dist/
-/nbdist/
+/nbdist/ssssssss
 /.nb-gradle/
 build/
 
