@@ -18,6 +18,9 @@ target/
 *.iws
 *.iml
 *.ipr
+*.idaa
+*.out
+Workshop1.iml
 
 ### NetBeans ###
 /nbproject/private/
@@ -29,5 +32,3 @@ build/
 
 ### VS Code ###
 .vscode/
-*.idea/
-Workshop1.iml
